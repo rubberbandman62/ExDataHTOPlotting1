@@ -1,4 +1,4 @@
-H1 Exploratory Data Analysis - Week 1 Course Project
+#Exploratory Data Analysis - Week 1 Course Project
 
 This is my solution to the course project of week 1:
 
@@ -16,3 +16,5 @@ plot3.R - plots the three sub metering values against the date time and stores
           in plot3.png
 
 plot4.R - plots four graphs in in one canvas and stores it in plot4.png
+
+plot_all.R - just calls plot1.R, plot2.R, plot3.R, plot4.R
